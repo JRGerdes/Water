@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CumRiver
+  m_Shader: {fileID: -6465566751694194690, guid: ef0a507df31e445469e34eaf2ae4afe4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_305ba5a27f854670acdc3f47a7fc59cc:
+        m_Texture: {fileID: 2800000, guid: 3c78e58026b28c2428e777b713be5aed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8b2d8de454044936b1f6da6b04b35fef:
+        m_Texture: {fileID: 2800000, guid: 1847c427ebed2b7469dd22667fe6e4e0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_e47c0de9ef0a47e99162827bcbf44a3e:
+        m_Texture: {fileID: 2800000, guid: eb34c33d70d9f4f449cb32fe2d65dc17, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_03e138e9a04c435eb03e96fa9bd9628f: 1
+    - Vector1_0de309239b8e4b6facce1a7eac578da3: 0.05
+    - Vector1_27639882f56c4ec48ef03919bb0f56a0: 0.05
+    - Vector1_50a396174bf04a9ba898f9ed254fb342: -1
+    - Vector1_5ac30ab9f9de45e0b86f49efac9d3881: 0.9
+    - Vector1_5c1488d7bb8d45efad0653936efd9428: 0.2
+    - Vector1_647183d99c614aa48c2ab32f490699a5: 3
+    - Vector1_7329e250410841e1895c63f7fae82b0b: 9
+    - Vector1_b647feae9dd84c8fa1f46c4787276b37: 0.05
+    - Vector1_d10960a2f190433393b4c1681b8230ec: 10
+    - Vector1_de29b82891254a46aa675877d5c8f258: 1
+    - Vector1_e8e7e65387394c30962b059b016e8544: 3
+    - Vector1_ebee796e0e4f48c68aa9fce46c01201b: 0.05
+    - Vector1_f555c5b0c7b243558f569129b1e4180d: 1
+    m_Colors:
+    - Color_3722750642ac48ce9573db47237a3f15: {r: 1, g: 1, b: 1, a: 1}
+    - Color_f4f7e89aaee94887b9d1dfac9d3f60b3: {r: 0.8773585, g: 0.8773585, b: 0.8773585, a: 1}
+    - Color_f97cfc9a797d4846bbc27f8c3c0ff76b: {r: 0, g: 0, b: 0, a: 1}
+    - Vector2_20808ed309f84d978ddf00ef1f7b329c: {r: 0.05, g: 0.05, b: 0, a: 0}
+    - Vector2_51bde9b52eec4acea759a9b7ea2439a6: {r: 0.05, g: 0.05, b: 0, a: 0}
+    - Vector2_7e2d7213426c490a9d92a22a289492d7: {r: 0.01, g: 0.01, b: 0, a: 0}
+    - Vector2_ac1a8ac34da546739c78c6cdc8de845d: {r: 0.2, g: 0.2, b: 0, a: 0}
+    - Vector2_b2ca9755d302469f8a75d80e7b5794d5: {r: 0.03, g: 0.03, b: 0, a: 0}
+    - Vector2_fdda7c0fd255413fbc53458d3952b578: {r: 0.02, g: 0.02, b: 0, a: 0}
+    - Vector3_281f4ab435624eaa8dd050a1c499bfce: {r: 0, g: 0, b: 0.1, a: 0}
+    - Vector3_5ab9d2214b764cd7b99d2eb1b920902b: {r: 0, g: 0, b: 0.1, a: 0}
+    - Vector3_896db5434aef4fdd837b7745fff52be5: {r: 0, g: 0, b: 0.5, a: 0}
+    - Vector3_d390716a87cc48be8cc73d152a59c6f6: {r: 0, g: 0, b: 0.1, a: 0}
+    - Vector4_cf9e1170b46e4196a67d540b2e442ebe: {r: 2, g: 2, b: 2, a: 2}
+  m_BuildTextureStacks: []
